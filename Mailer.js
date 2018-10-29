@@ -1,4 +1,5 @@
-const sgMail = require('@sendgrid/mail'),
+const
+	sgMail = require('@sendgrid/mail'),
 	config = require('./config'),
 	Email = require('email-templates'),
 	path = require('path'),
